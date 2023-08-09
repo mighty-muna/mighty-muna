@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mighty-muna
-- 👀 I’m interested in Data Analysis, Data Science, Visualizations and insights, Illustration, and Geology.
-- 🌱 I’m currently learning Data Analysis and Data Visualizations.
+- 👋 Hi, I’m @mighty-muna, better known as Nwanedo Munachiso. 
+- 👀 I’m in love with Data Analysis, Data Science, Visualizations and insights, Illustration, and Geology.
 - 💞️ I’m looking to collaborate on Data Analysis Projects, and also make friends in the space while I'm at it.
 - 📫 How to reach me munanwanedo@gmail.com or visit my Github page https://github.com/mighty-muna
 
